@@ -5,5 +5,5 @@ import { defineConfig } from 'vite'
 // Configuración para GitHub Pages
 export default defineConfig({
   plugins: [react()],
-  base: '/mi-portafolio/',
+  base: '/mi-portafolio---Kevin-Rodriguez/',
 })
